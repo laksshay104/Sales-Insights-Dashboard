@@ -1,0 +1,11 @@
+- The project involves analyzing real data from a hardware company.
+- The dataset was obtained online as an SQL file and imported into MySQL using MySQL Server Workbench.
+- Identified and fixed mistakes, such as duplicate currency entries.
+- In Power BI, DAX (Data Analysis Expressions) is used to create custom measures.
+- Key measures include:
+     - Revenue Percentage
+     - Sales Percentage
+     - Profit Margin Percentage
+- Developed a dynamic sales analysis dashboard in Power BI.
+- Visualized sales trends, top-selling products, and revenue measures.
+- Provided actionable insights for informed decision-making and business growth.
